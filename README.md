@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}" style="color:#8200D2;">
+    <a href="/https://github.com/mtdowner/404-not-found-page" style="color:#8200D2;">
       Solution
     </a>
     <span> | </span>
